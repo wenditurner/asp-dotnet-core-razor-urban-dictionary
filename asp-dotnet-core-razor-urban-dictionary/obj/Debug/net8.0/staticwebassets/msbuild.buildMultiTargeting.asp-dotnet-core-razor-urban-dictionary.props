@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\asp-dotnet-core-razor-urban-dictionary.props" />
+</Project>
